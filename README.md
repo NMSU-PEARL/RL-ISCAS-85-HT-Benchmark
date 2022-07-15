@@ -23,3 +23,6 @@ Benchmark Details
 6- Each Verilog file has its own log file, and the format is log_verilog_XX_YY.txt. XX is the same as the Verilog HT name, and YY is the ICP (Input Coverage Percentage). It is 0<YY=<1.
 7- ICP states what percentage of the circuit total inputs were involved during the activation of that particular HT. This information can also be found inside each of the log files.
 8- The input combination to activate the particular is included in the log files for sanity check. It is called the input stack.
+
+
+The zip files are password-protected. To gain access, please email sarihi@nmsu.edu or amin.sarihi@gmail.com
