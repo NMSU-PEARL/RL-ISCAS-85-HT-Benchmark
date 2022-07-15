@@ -1,6 +1,8 @@
 # RL-ISCAS-85-HT-Benchmark
 Hardware Trojan Benchmark created by a Reinforcement Learning Agent
 
+The zip files are password-protected. To gain access, please email sarihi@nmsu.edu or amin.sarihi@gmail.com
+
 Readme:
 *******************
 General Information
@@ -25,4 +27,4 @@ Benchmark Details
 8- The input combination to activate the particular is included in the log files for sanity check. It is called the input stack.
 
 
-The zip files are password-protected. To gain access, please email sarihi@nmsu.edu or amin.sarihi@gmail.com
+
