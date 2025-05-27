@@ -1,7 +1,7 @@
 # RL-ISCAS-85-HT-Benchmark
 Hardware Trojan Benchmark created by a Reinforcement Learning Agent
 
-The zip files are password-protected. To gain access, please email sarihi@nmsu.edu or amin.sarihi@gmail.com
+The zip files are password-protected. To gain access, please email badawy@nmsu.edu
 
 Readme:
 *******************
